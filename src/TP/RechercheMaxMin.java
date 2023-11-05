@@ -1,6 +1,6 @@
 package TP;
 
-public class rechercheMaxMin {
+public class RechercheMaxMin {
     public static void main(String[] args) {
 
 
